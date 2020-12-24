@@ -1,0 +1,79 @@
+.er{
+	background-image: url(https://qfos.ru/wp-content/uploads/2018/04/48c929bfe1d4ba4e71209c9d278c11ad.jpg)
+}
+.ty{
+	background-image: url(https://proxy12.online.ua/oboi/r3-d08d137660/base50f00862e72b2.jpg);
+}
+.go{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc7fZpGlMYDN1aZL3Ixok6aN748d560uZO0w&usqp=CAU);
+}
+.ua{
+	background-image: url(https://proxy12.online.ua/oboi/r3-8f2e216d96/view50f00843e0d29.png);
+}
+.title{
+font-style: italic;
+font-size: 25px;
+color: red;
+ text-align: center;
+}
+.title1{
+font-style: serif;
+font-size: 35px;
+color: red;
+ text-align: center;
+}
+.title2{
+font-style: cursive;
+font-size: 25px;
+color: red;
+ text-align: center;
+font-weight: normal;
+}
+
+.title3{
+font-style: monospace;
+font-size: 20px;
+color: red;
+ text-align: center;
+ line-height: 1.5;
+}
+.title4{
+font-style: italic;
+font-size: 15px;
+color: red;
+line-height: 1.5;
+}
+.title5{
+font-size: 25px;
+ text-align: center;
+}
+}
+.text {
+font-size: 20px;
+color: white;-
+}
+
+
+.text1 {
+	color: blue;
+}
+.text2 {
+	color: white;
+}
+.text3 {
+	color: red;
+}
+
+.text4 {
+	color: orange;
+
+}
+.text5 {
+	color: green ;
+}
+.text6 {
+	color:yellow;
+}
+.text7 {
+	color: olive;
+}
